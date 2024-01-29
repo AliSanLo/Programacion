@@ -1,11 +1,11 @@
-package ficheros;
+package practica;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class fich2 {
+public class Fich2 {
 
 	public static void main(String[] args) {
 		// 1º creo wl objeto file
