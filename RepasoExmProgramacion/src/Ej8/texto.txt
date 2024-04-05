@@ -1,0 +1,3 @@
+Esto es un ejemplo de escritura de fichero mediante códigos ascii. hola.
+Para poder recuperar el contenido del fichero simplemente hay que leer el código y traducirlo a su caracter asociado.
+Hay que no todos los carácteres de este fichero son números.
