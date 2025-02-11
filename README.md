@@ -9,3 +9,15 @@ A rasgos generales encontramos ejercicios acerca de:
 - Flujos de datos (InputStream, OutputStream)
 - Uso de APIs y librerías externas
 - Entornos utilizados: Eclipse, IntelliJ.
+
+
+In this repository, you will find several exercises I have completed during the course. In general, the exercises cover:
+- Conditionals, loops, switch/case
+- Operators (arithmetic, logical, relational, bitwise)
+- Type conversion (implicit and explicit casting)
+- Java programming (OOP: classes, inheritance, polymorphism, encapsulation, - interfaces, abstract classes, use of this and super)
+- Data structures (HashMap, TreeMap, ArrayList)
+- Reading and writing text files (FileReader, BufferedReader, PrintWriter)
+- Data streams (InputStream, OutputStream)
+- Using APIs and external libraries
+- Development environments: Eclipse, IntelliJ.
